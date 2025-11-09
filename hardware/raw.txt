@@ -1,0 +1,37 @@
+==== RAW OUTPUT ====
+### wmic_cpu
+
+ERR:
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+
+----
+
+### wmic_bios
+
+ERR:
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+
+----
+
+### wmic_baseboard
+
+ERR:
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+
+----
+
+### wmic_video
+
+ERR:
+'wmic' is not recognized as an internal or external command,
+operable program or batch file.
+
+----
+
+### psutil not available
+
+----
+
