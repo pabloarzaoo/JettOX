@@ -57,14 +57,14 @@ JettOX Pro is a comprehensive, automated diagnostics tool designed to collect de
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/JettOX-Pro.git
-cd JettOX-Pro
+git clone https://github.com/pabloarzaoo/JettOX/
+cd JettOX
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the diagnostics
-python jettox_pro.py
+python main.py
 ```
 
 > 🔑 For full system information and firmware queries, run as **Administrator**.
@@ -200,3 +200,4 @@ MIT License – Free to use, modify, and share.
   * `smartctl` for detailed disk health.
   * `psutil` for enhanced CPU/memory/disk info.
   * `pyfiglet` for a fancier terminal banner.
+
