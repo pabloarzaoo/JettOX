@@ -58,6 +58,7 @@ JettOX Pro is a comprehensive, automated diagnostics tool designed to collect de
 ```bash
 # Clone the repository
 git clone https://github.com/pabloarzaoo/JettOX/
+
 cd JettOX
 
 # Run the diagnostics
@@ -197,5 +198,6 @@ MIT License – Free to use, modify, and share.
   * `smartctl` for detailed disk health.
   * `psutil` for enhanced CPU/memory/disk info.
   * `pyfiglet` for a fancier terminal banner.
+
 
 
