@@ -61,6 +61,9 @@ git clone https://github.com/pabloarzaoo/JettOX/
 
 cd JettOX
 
+# Install dependencies
+pip install -r requirements.txt
+
 # Run the diagnostics
 python main.py
 ```
@@ -198,6 +201,7 @@ MIT License – Free to use, modify, and share.
   * `smartctl` for detailed disk health.
   * `psutil` for enhanced CPU/memory/disk info.
   * `pyfiglet` for a fancier terminal banner.
+
 
 
 
